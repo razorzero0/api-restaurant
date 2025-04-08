@@ -1,166 +1,165 @@
 {
     "menu": [
-      
-      {
-        "id": 1,
-        "nama": "Fried Chicken Original",
-        "deskripsi": "Ayam goreng renyah dengan bumbu rahasia turun temurun",
-        "harga": 25000,
-        "gambar": "https://images.pexels.com/photos/1059943/pexels-photo-1059943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "kategori": "Makanan"
-      },
-      {
-        "id": 2,
-        "nama": "Zinger Burger",
-        "deskripsi": "Burger dengan daging ayam crispy, saus spesial, dan sayuran",
-        "harga": 35000,
-        "gambar": "https://images.pexels.com/photos/31450819/pexels-photo-31450819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "kategori": "Makanan"
-      },
-      {
-        "id": 3,
-        "nama": "Rice Bowl Ayam Crispy",
-        "deskripsi": "Nasi hangat dengan ayam crispy, saus, dan sayuran",
-        "harga": 28000,
-        "gambar": "https://images.pexels.com/photos/31539451/pexels-photo-31539451/free-photo-of-nasi-goreng-indonesia-dengan-ayam-dan-sate.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "kategori": "Makanan"
-      },
-      {
-        "id": 4,
-        "nama": "Chicken Popcorn",
-        "deskripsi": "Potongan ayam kecil-kecil goreng crispy",
-        "harga": 18000,
-        "gambar": "https://kfc-indonesia.com/img/menu/chicken-popcorn.jpg",
-        "kategori": "Makanan"
-      },
-      {
-        "id": 5,
-        "nama": "Spicy Chicken Wings",
-        "deskripsi": "Sayap ayam pedas dengan bumbu level 2",
-        "harga": 20000,
-        "gambar": "https://kfc-indonesia.com/img/menu/spicy-wings.jpg",
-        "kategori": "Makanan"
-      },
-      {
-        "id": 6,
-        "nama": "Cheesy Fries",
-        "deskripsi": "Kentang goreng dengan saus keju leleh",
-        "harga": 22000,
-        "gambar": "https://kfc-indonesia.com/img/menu/cheesy-fries.jpg",
-        "kategori": "Makanan"
-      },
-      {
-        "id": 7,
-        "nama": "Egg Tart",
-        "deskripsi": "Pie lembut dengan isian custard telur",
-        "harga": 12000,
-        "gambar": "https://kfc-indonesia.com/img/menu/egg-tart.jpg",
-        "kategori": "Makanan"
-      },
-      {
-        "id": 8,
-        "nama": "Sausage Twirl",
-        "deskripsi": "Sosis dibalut adonan goreng renyah",
-        "harga": 17000,
-        "gambar": "https://kfc-indonesia.com/img/menu/sausage-twirl.jpg",
-        "kategori": "Makanan"
-      },
-      {
-        "id": 9,
-        "nama": "Kentang Goreng Regular",
-        "deskripsi": "Kentang goreng renyah ukuran regular",
-        "harga": 15000,
-        "gambar": "https://kfc-indonesia.com/img/menu/french-fries.jpg",
-        "kategori": "Makanan"
-      },
-      {
-        "id": 10,
-        "nama": "Chicken Strip",
-        "deskripsi": "Irisan daging ayam crispy dengan saus pilihan",
-        "harga": 23000,
-        "gambar": "https://kfc-indonesia.com/img/menu/chicken-strip.jpg",
-        "kategori": "Makanan"
-      },
-  
-      {
-        "id": 11,
-        "nama": "Es Teh Manis",
-        "deskripsi": "Es teh dengan gula cair",
-        "harga": 8000,
-        "gambar": "https://kfc-indonesia.com/img/menu/es-teh.jpg",
-        "kategori": "Minuman"
-      },
-      {
-        "id": 12,
-        "nama": "Coca-Cola Regular",
-        "deskripsi": "Minuman soda rasa cola ukuran regular",
-        "harga": 10000,
-        "gambar": "https://kfc-indonesia.com/img/menu/coca-cola.jpg",
-        "kategori": "Minuman"
-      },
-      {
-        "id": 13,
-        "nama": "Milkshake Coklat",
-        "deskripsi": "Milkshake dengan rasa coklat kental",
-        "harga": 20000,
-        "gambar": "https://kfc-indonesia.com/img/menu/chocolate-milkshake.jpg",
-        "kategori": "Minuman"
-      },
-      {
-        "id": 14,
-        "nama": "Juice Jeruk",
-        "deskripsi": "Jus jeruk segar tanpa gula",
-        "harga": 15000,
-        "gambar": "https://kfc-indonesia.com/img/menu/orange-juice.jpg",
-        "kategori": "Minuman"
-      },
-      {
-        "id": 15,
-        "nama": "Air Mineral",
-        "deskripsi": "Air mineral kemasan 600ml",
-        "harga": 5000,
-        "gambar": "https://kfc-indonesia.com/img/menu/mineral-water.jpg",
-        "kategori": "Minuman"
-      },
-      {
-        "id": 16,
-        "nama": "Es Kopi Susu",
-        "deskripsi": "Kopi dengan susu dan es batu",
-        "harga": 18000,
-        "gambar": "https://kfc-indonesia.com/img/menu/iced-coffee.jpg",
-        "kategori": "Minuman"
-      },
-      {
-        "id": 17,
-        "nama": "Lemonade",
-        "deskripsi": "Minuman lemon segar dengan soda",
-        "harga": 15000,
-        "gambar": "https://kfc-indonesia.com/img/menu/lemonade.jpg",
-        "kategori": "Minuman"
-      },
-      {
-        "id": 18,
-        "nama": "Avocado Smoothie",
-        "deskripsi": "Smoothie alpukat dengan susu",
-        "harga": 25000,
-        "gambar": "https://kfc-indonesia.com/img/menu/avocado-smoothie.jpg",
-        "kategori": "Minuman"
-      },
-      {
-        "id": 19,
-        "nama": "Thai Tea",
-        "deskripsi": "Teh thailand dengan susu dan es",
-        "harga": 17000,
-        "gambar": "https://kfc-indonesia.com/img/menu/thai-tea.jpg",
-        "kategori": "Minuman"
-      },
-      {
-        "id": 20,
-        "nama": "Es Cincau",
-        "deskripsi": "Minuman cincau hitam dengan santan",
-        "harga": 12000,
-        "gambar": "https://kfc-indonesia.com/img/menu/grass-jelly.jpg",
-        "kategori": "Minuman"
-      }
+        {
+            "id": 1,
+            "nama": "Fried Chicken Original",
+            "deskripsi": "Ayam goreng renyah dengan bumbu rahasia turun temurun",
+            "harga": 25000,
+            "gambar": "https://images.pexels.com/photos/1059943/pexels-photo-1059943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "kategori": "Makanan"
+        },
+        {
+            "id": 2,
+            "nama": "Zinger Burger",
+            "deskripsi": "Burger dengan daging ayam crispy, saus spesial, dan sayuran",
+            "harga": 35000,
+            "gambar": "https://images.pexels.com/photos/31450819/pexels-photo-31450819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "kategori": "Makanan"
+        },
+        {
+            "id": 3,
+            "nama": "Rice Bowl Ayam Crispy",
+            "deskripsi": "Nasi hangat dengan ayam crispy, saus, dan sayuran",
+            "harga": 28000,
+            "gambar": "https://images.pexels.com/photos/31539451/pexels-photo-31539451/free-photo-of-nasi-goreng-indonesia-dengan-ayam-dan-sate.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "kategori": "Makanan"
+        },
+        {
+            "id": 4,
+            "nama": "Chicken Popcorn",
+            "deskripsi": "Potongan ayam kecil-kecil goreng crispy",
+            "harga": 18000,
+            "gambar": "https://www.recipetineats.com/tachyon/2025/01/Popcorn-chicken_3-close-up.jpg?resize=1200%2C1500&zoom=0.54",
+            "kategori": "Makanan"
+        },
+        {
+            "id": 5,
+            "nama": "Spicy Chicken Wings",
+            "deskripsi": "Sayap ayam pedas dengan bumbu level 2",
+            "harga": 20000,
+            "gambar": "https://images.pexels.com/photos/17282046/pexels-photo-17282046/free-photo-of-makanan-tekstur-permukaan-pola.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "kategori": "Makanan"
+        },
+        {
+            "id": 6,
+            "nama": "Cheesy Fries",
+            "deskripsi": "Kentang goreng dengan saus keju leleh",
+            "harga": 22000,
+            "gambar": "https://images.pexels.com/photos/31533633/pexels-photo-31533633/free-photo-of-kentang-goreng-lezat-dengan-saus-krim.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "kategori": "Makanan"
+        },
+        {
+            "id": 7,
+            "nama": "Egg Tart",
+            "deskripsi": "Pie lembut dengan isian custard telur",
+            "harga": 12000,
+            "gambar": "https://images.unsplash.com/photo-1637273483570-10e72651892e?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "kategori": "Makanan"
+        },
+        {
+            "id": 8,
+            "nama": "Sausage Twirl",
+            "deskripsi": "Sosis dibalut adonan goreng renyah",
+            "harga": 17000,
+            "gambar": "https://images.pexels.com/photos/4518645/pexels-photo-4518645.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "kategori": "Makanan"
+        },
+        {
+            "id": 9,
+            "nama": "Kentang Goreng Regular",
+            "deskripsi": "Kentang goreng renyah ukuran regular",
+            "harga": 15000,
+            "gambar": "https://images.pexels.com/photos/31533631/pexels-photo-31533631/free-photo-of-sepiring-kentang-goreng-lezat-dengan-sosis.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "kategori": "Makanan"
+        },
+        {
+            "id": 10,
+            "nama": "Chicken Strip",
+            "deskripsi": "Irisan daging ayam crispy dengan saus pilihan",
+            "harga": 23000,
+            "gambar": "https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/93/2024/06/16/chicken_strips-1-3566178366.jpg",
+            "kategori": "Makanan"
+        },
+
+        {
+            "id": 11,
+            "nama": "Es Teh Manis",
+            "deskripsi": "Es teh dengan gula cair",
+            "harga": 8000,
+            "gambar": "https://kfc-indonesia.com/img/menu/es-teh.jpg",
+            "kategori": "Minuman"
+        },
+        {
+            "id": 12,
+            "nama": "Coca-Cola Regular",
+            "deskripsi": "Minuman soda rasa cola ukuran regular",
+            "harga": 10000,
+            "gambar": "https://kfc-indonesia.com/img/menu/coca-cola.jpg",
+            "kategori": "Minuman"
+        },
+        {
+            "id": 13,
+            "nama": "Milkshake Coklat",
+            "deskripsi": "Milkshake dengan rasa coklat kental",
+            "harga": 20000,
+            "gambar": "https://kfc-indonesia.com/img/menu/chocolate-milkshake.jpg",
+            "kategori": "Minuman"
+        },
+        {
+            "id": 14,
+            "nama": "Juice Jeruk",
+            "deskripsi": "Jus jeruk segar tanpa gula",
+            "harga": 15000,
+            "gambar": "https://kfc-indonesia.com/img/menu/orange-juice.jpg",
+            "kategori": "Minuman"
+        },
+        {
+            "id": 15,
+            "nama": "Air Mineral",
+            "deskripsi": "Air mineral kemasan 600ml",
+            "harga": 5000,
+            "gambar": "https://kfc-indonesia.com/img/menu/mineral-water.jpg",
+            "kategori": "Minuman"
+        },
+        {
+            "id": 16,
+            "nama": "Es Kopi Susu",
+            "deskripsi": "Kopi dengan susu dan es batu",
+            "harga": 18000,
+            "gambar": "https://kfc-indonesia.com/img/menu/iced-coffee.jpg",
+            "kategori": "Minuman"
+        },
+        {
+            "id": 17,
+            "nama": "Lemonade",
+            "deskripsi": "Minuman lemon segar dengan soda",
+            "harga": 15000,
+            "gambar": "https://kfc-indonesia.com/img/menu/lemonade.jpg",
+            "kategori": "Minuman"
+        },
+        {
+            "id": 18,
+            "nama": "Avocado Smoothie",
+            "deskripsi": "Smoothie alpukat dengan susu",
+            "harga": 25000,
+            "gambar": "https://kfc-indonesia.com/img/menu/avocado-smoothie.jpg",
+            "kategori": "Minuman"
+        },
+        {
+            "id": 19,
+            "nama": "Thai Tea",
+            "deskripsi": "Teh thailand dengan susu dan es",
+            "harga": 17000,
+            "gambar": "https://kfc-indonesia.com/img/menu/thai-tea.jpg",
+            "kategori": "Minuman"
+        },
+        {
+            "id": 20,
+            "nama": "Es Cincau",
+            "deskripsi": "Minuman cincau hitam dengan santan",
+            "harga": 12000,
+            "gambar": "https://kfc-indonesia.com/img/menu/grass-jelly.jpg",
+            "kategori": "Minuman"
+        }
     ]
-  }
+}
